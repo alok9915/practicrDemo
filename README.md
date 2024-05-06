@@ -1,4 +1,4 @@
 # practiceDemo
 this is my first repository
 <br>
-Author - Prithivi
+Author - Prithivi (firstName)
